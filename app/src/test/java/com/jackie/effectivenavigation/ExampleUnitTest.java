@@ -1,4 +1,4 @@
-package com.jackie.effectivenavigation;
+package com.jackie.effectiveNavigation;
 
 import org.junit.Test;
 
